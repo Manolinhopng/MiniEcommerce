@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19">
-  <img src="https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8">
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 6">
   <img src="https://img.shields.io/badge/Tailwind-4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind 4">
   <img src="https://img.shields.io/badge/Framer_Motion-12-FF0055?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
 </p>
@@ -32,7 +32,7 @@ Our checkout flow is designed to minimize friction and maximize trust:
 ### 🚀 Performance First
 - **Zero-Layout Shift**: Optimized image handling and skeleton states.
 - **React 19 Ready**: Leveraging the latest concurrent rendering features for a butter-smooth feel.
-- **Vite 8 Engine**: Instant HMR and ultra-fast production builds.
+- **Vite 6 Engine**: Instant HMR and ultra-fast production builds.
 
 ## 🛠️ Technical Masterpiece
 
