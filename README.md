@@ -3,9 +3,6 @@
   <strong>The Gold Standard for Modern, Premium E-commerce Storefronts.</strong>
 </p>
 
-<p align="center">
-  <img src="public/hero.png" alt="MiniEcommerce Hero" width="800" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.3);">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19">
